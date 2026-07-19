@@ -9,7 +9,7 @@ elif light=="green":
 elif light=="yellow":
     print("Wait")
 else:
-    print ("Invalid color") 
+    print ("Invalid color")
 
 #if-else
 
