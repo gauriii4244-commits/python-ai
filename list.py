@@ -1,15 +1,15 @@
-# marks = [95.4,85.2,74.2,58.4]
-# print(marks)
-# print(type(marks))
-# print(marks[3])
-# print(len(marks))
+marks = [95.4,85.2,74.2,58.4]
+print(marks)
+print(type(marks))
+print(marks[3])
+print(len(marks))
 
-# #can store different types of data
-# student = ["Aarya", 91.80 , 19 , "Baramati"]
-# print(student)
-# student[1]=92.80
-# print(student)
-# print(student[5]) #list index is out of range
+#can store different types of data
+student = ["Aarya", 91.80 , 19 , "Baramati"]
+print(student)
+student[1]=92.80
+print(student)
+print(student[5]) #list index is out of range
 
 #practice questions
 foods =["Momos","Noodles","Pani-puri","Fried-rice","Pav-bhaji"]
